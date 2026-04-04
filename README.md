@@ -54,8 +54,8 @@ Web Development    █████████░░░░░░░░ 60%
 ### 💻 Development
 
 `HTML` `CSS` `JavaScript`
-`React.js` *(learning)*
-`Node.js` *(learning)*
+`React.js` 
+`Node.js` 
 
 ### ⚙️ Tools
 
