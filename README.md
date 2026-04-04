@@ -1,31 +1,148 @@
-# 👋 Hello, I'm Mohit Choudhary 
 
-🚀 **BCA Student & Aspiring Full-Stack Developer**  
-📍 Delhi, India | 📧 mohitchoudhary11012004@gmail.com  
+# 👨‍💻 Mohit Choudhary
 
-### 🔧 **Technical Skills**
-- **Languages**: Python, JavaScript, C, C++
-- **Web Development**: HTML5, CSS3 
-- **Data Tools**: Power BI
-- **Tools**: Git, VS Code, Jupyter Notebook
+<p align="center">
+  <b>Data Analyst • BI Developer • Aspiring Full-Stack Engineer</b><br>
+  Turning raw data into business decisions
+</p>
 
-### 🌱 **Currently Learning**
-- React.js & Node.js (MERN Stack)
-- Data Structures & Algorithms
-- UI/UX Design Principles
+<p align="center">
+  📍 Delhi, India • 📧 mohitchoudhary11012004@gmail.com <br>
+  <a href="https://github.com/mohitchoudhary666">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mohitchoudhary2004">LinkedIn</a>
+</p>
 
-### 💻 **Projects**
-1. **[Auto Chatbot](https://github.com/mohitchoudhary666/auto-chatbot)** - Python NLP chatbot (85% accuracy)
-2. **[Voice Assistant](https://github.com/mohitchoudhary666/voice-assistant)** - Voice-controlled task automation
-3. **[Face Recognition](https://github.com/mohitchoudhary666/face-recognition)** - OpenCV-based detection system
+---
 
-### 📚 **Education**
-- Pursuing BCA from Mewar Institute of Management (CCSU)
-- CBSE XII (2022) & X (2020) - Govt. Boys Sr. Sec. School, Delhi
+## ⚡ Profile Snapshot
 
+* 🎯 Data Analyst with real-world project experience across healthcare, retail, telecom
+* 📊 Strong in SQL, Power BI, and Python-based analytics
+* 🧠 Focused on extracting business insights, not just coding
+* 🚀 Transitioning toward Full-Stack + Data-driven systems
 
+---
 
-### ⚡ **Fun Facts**
-- I can solve a Rubik's cube in under 2 minutes
-- Big fan of sci-fi movies and tech documentaries
-- Love to experiment with Arduino projects
+## 🧠 Core Competencies
+
+```
+Data Analysis      ██████████████░░░ 85%
+SQL & Databases    ███████████████░░ 90%
+Power BI / DAX     █████████████░░░░ 80%
+Python Analytics   █████████████░░░░ 80%
+Web Development    █████████░░░░░░░░ 60%
+```
+
+---
+
+## 🛠 Tech Stack
+
+### 📊 Data & Analytics
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+`SQL` `MySQL` `PostgreSQL`
+
+### 📈 Business Intelligence
+
+`Power BI` `DAX` `Data Modeling` `Dashboard Design`
+
+### 🧠 Analytics Techniques
+
+`RFM Segmentation` `Churn Analysis` `Cohort Analysis`
+`EDA` `KPI Tracking` `Forecasting`
+
+### 💻 Development
+
+`HTML` `CSS` `JavaScript`
+`React.js` *(learning)*
+`Node.js` *(learning)*
+
+### ⚙️ Tools
+
+`Git` `VS Code` `Jupyter Notebook` `MongoDB`
+
+---
+
+## 📂 High-Impact Projects
+
+### 🏥 Healthcare Patient Analytics
+
+✔ Identified readmission trends and treatment patterns
+✔ Built SQL-based segmentation and analysis pipelines
+✔ Created Power BI dashboards for hospital KPIs
+
+---
+
+### 📉 Customer Churn Analysis
+
+✔ Discovered key churn drivers in telecom dataset
+✔ Segmented high-risk users using behavioral data
+✔ Applied Python EDA for trend visualization
+
+---
+
+### 🛒 Retail Customer Segmentation
+
+✔ Performed RFM analysis on 30,000+ transactions
+✔ Identified top 48% revenue-generating customers
+✔ Built lifecycle dashboards in Power BI
+
+---
+
+### 📊 Sales Performance Dashboard
+
+✔ Modeled 50K+ records using star schema
+✔ Created DAX KPIs for revenue & growth tracking
+✔ Automated reporting dashboards
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitchoudhary666&show_icons=true&theme=radical" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitchoudhary666&theme=radical" height="160">
+</p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**
+Mewar Institute of Management, CCSU
+📅 Expected Graduation: 2026
+
+---
+
+## 📜 Certifications
+
+* Cisco – Data Science Essentials
+* Cisco – Data Analytics Essentials
+* Google – Google Analytics Certification
+
+---
+
+## 🎯 Current Focus
+
+* Advanced SQL Case Studies
+* End-to-End Data Projects
+* MERN Stack Development
+* System Design Basics
+
+---
+
+## ⚡ Competitive Edge
+
+* Built multi-domain analytics projects
+* Strong foundation in data + development
+* Focus on business impact, not just code
+
+---
+
+## 📬 Contact
+
+📧 [mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)
+
+---
+
+Stop overthinking. Paste it and move on to building better projects.
