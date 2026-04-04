@@ -143,6 +143,4 @@ Mewar Institute of Management, CCSU
 
 📧 [mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)
 
----
 
-Stop overthinking. Paste it and move on to building better projects.
