@@ -81,7 +81,7 @@ Currently expanding my skills in Data Engineering while building end-to-end anal
 * Developed SQL queries to analyze regional sales performance, payment methods, and monthly revenue trends.
 * Connected Athena directly to Power BI to create interactive dashboards for revenue, sales performance, payment analytics, and regional KPIs.
 
-➡️ Repository: *(Add Repository Link)*
+➡️ Repository: *(https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline)*
 
 ---
 
