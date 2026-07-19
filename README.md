@@ -1,6 +1,11 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitchoudhary666&show_icons=true&theme=default)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitchoudhary666&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchoudhary666&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchoudhary666&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohitchoudhary666&theme=github-dark&hide_border=true" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohitchoudhary666)
 
