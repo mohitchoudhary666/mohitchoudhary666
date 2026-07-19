@@ -93,7 +93,7 @@ Currently expanding my skills in Data Engineering while building end-to-end anal
 * Built cohort retention analysis using SQL CTEs, CASE statements, and window functions (LAG/LEAD).
 * Identified user retention trends and checkout funnel drop-off points through analytical reporting.
 
-➡️ Repository: *(Add Repository Link)*
+➡️ Repository: *(https://github.com/mohitchoudhary666/User-Behavior-Cohort-Analytics)*
 
 ---
 
