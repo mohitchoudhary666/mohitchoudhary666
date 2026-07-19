@@ -6,22 +6,22 @@ Turning raw data into actionable business insights through analytics, visualizat
 
 📍 **Delhi, India**
 📧 **[mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)**
-🔗 **LinkedIn:** https://www.linkedin.com/in/mohitchoudhary2004
-🔗 **GitHub:** https://github.com/mohitchoudhary666
+💼 **LinkedIn:** https://www.linkedin.com/in/mohitchoudhary2004
+💻 **GitHub:** https://github.com/mohitchoudhary666
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I am a Data Analyst with internship experience in exploratory data analysis, data transformation, dashboard development, and cloud analytics.
+I am a Data Analyst with internship experience in exploratory data analysis (EDA), data transformation, dashboard development, and cloud analytics.
 
-I enjoy solving business problems using SQL, Python, Power BI, AWS Athena, and Google BigQuery. My work focuses on transforming raw datasets into meaningful business insights through data cleaning, modeling, visualization, and reporting.
+My expertise includes SQL, Python, Power BI, AWS Athena, and Google BigQuery. I enjoy transforming raw datasets into meaningful business insights through data cleaning, modeling, visualization, and analytical reporting.
 
-Currently expanding my skills in Data Engineering while building end-to-end analytics projects on modern cloud platforms.
+Currently expanding my knowledge in Data Engineering while building end-to-end analytics projects on modern cloud platforms.
 
 ---
 
-# 💻 Technical Skills
+## 💻 Tech Stack
 
 ### Programming & Analytics
 
@@ -54,9 +54,9 @@ Currently expanding my skills in Data Engineering while building end-to-end anal
 
 * Exploratory Data Analysis (EDA)
 * Data Cleaning
-* Data Validation
 * Data Transformation
-* Customer Segmentation (RFM)
+* Data Validation
+* RFM Customer Segmentation
 * Cohort Analysis
 * Churn Analysis
 * KPI Reporting
@@ -79,22 +79,30 @@ Currently expanding my skills in Data Engineering while building end-to-end anal
 
 * Built a serverless cloud analytics pipeline using AWS S3 and Athena to analyze over **100,000+** e-commerce transactions.
 * Developed SQL queries to analyze regional sales performance, payment methods, and monthly revenue trends.
-* Connected Athena directly to Power BI to create interactive dashboards for revenue, sales performance, payment analytics, and regional KPIs.
+* Connected Athena directly to Power BI to build interactive dashboards for revenue, regional sales, payment analytics, and business KPIs.
 
-➡️ Repository: *(https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline)*
-    live demo link = *(https://e-commerce-pipline.vercel.app/)*
+**🔗 Repository:**
+https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline
+
+**🌐 Live Demo:**
+https://e-commerce-pipline.vercel.app/
+
 ---
 
 ## 📈 User Behavior & Cohort Analytics
 
 **Tech Stack:** Google BigQuery • SQL • Looker Studio
 
-* Analyzed the **Google Analytics Sample Dataset** using Google BigQuery.
+* Analyzed the Google Analytics Sample Dataset using Google BigQuery.
 * Built cohort retention analysis using SQL CTEs, CASE statements, and window functions (LAG/LEAD).
 * Identified user retention trends and checkout funnel drop-off points through analytical reporting.
 
-➡️ Repository: *(https://github.com/mohitchoudhary666/User-Behavior-Cohort-Analytics)*
-   live demo link =*(https://user-behavior-cohort-analytics.vercel.app/)*
+**🔗 Repository:**
+https://github.com/mohitchoudhary666/User-Behavior-Cohort-Analytics
+
+**🌐 Live Demo:**
+https://user-behavior-cohort-analytics.vercel.app/
+
 ---
 
 ## 🛒 Retail Customer Segmentation (RFM)
@@ -103,34 +111,17 @@ Currently expanding my skills in Data Engineering while building end-to-end anal
 
 * Performed RFM segmentation on **30,000+** retail transactions.
 * Identified a high-value customer segment contributing approximately **48%** of total revenue.
-* Designed a star schema data model and developed Power BI dashboards for customer behavior and revenue analysis.
+* Designed a star schema data model and built Power BI dashboards for customer behavior and revenue analysis.
 
-➡️ Repository: *(https://github.com/mohitchoudhary666/Retail-Customer-Segmentation)*
-    live demo link =  *(https://retail-customer-segmentation-neon.vercel.app/)*
+**🔗 Repository:**
+https://github.com/mohitchoudhary666/Retail-Customer-Segmentation
 
----
-
-# 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**
-
-Mewar Institute of Management
-
-Chaudhary Charan Singh University (CCSU)
-
-**2023 – 2026**
+**🌐 Live Demo:**
+https://retail-customer-segmentation-neon.vercel.app/
 
 ---
 
-# 📜 Certifications
-
-* Cisco Data Analytics Essentials
-* Cisco Data Science Essentials with Python
-* Google Analytics Certification
-
----
-
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 * Apache Spark
 * Apache Airflow
@@ -141,16 +132,13 @@ Chaudhary Charan Singh University (CCSU)
 
 ---
 
-# 📫 Let's Connect
+## 📫 Connect With Me
 
-📧 **Email:** [mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)
+📧 **Email:**
+[mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/mohitchoudhary2004
+💼 **LinkedIn:**
+https://www.linkedin.com/in/mohitchoudhary2004
 
-💻 **GitHub:** https://github.com/mohitchoudhary666
-
----
-
-### Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me. I'm always interested in learning, collaborating, and building impactful data analytics solutions.
+💻 **GitHub:**
+https://github.com/mohitchoudhary666
