@@ -7,8 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=mohitchoudhary666&theme=github-dark&hide_border=true" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohitchoudhary666)
-
 # 👋 Hi, I'm Mohit Choudhary
 
 ## Data Analyst | SQL | Python | Power BI | Cloud Analytics
