@@ -1,146 +1,231 @@
+# 👋 Hi, I'm Mohit Choudhary
 
-# 👨‍💻 Mohit Choudhary
+### Data Analyst | SQL | Python | Power BI | Cloud Analytics
 
-<p align="center">
-  <b>Data Analyst • BI Developer • Aspiring Full-Stack Engineer</b><br>
-  Turning raw data into business decisions
-</p>
+Turning raw data into actionable business insights through analytics, visualization, and cloud-based data solutions.
 
-<p align="center">
-  📍 Delhi, India • 📧 mohitchoudhary11012004@gmail.com <br>
-  <a href="https://github.com/mohitchoudhary666">GitHub</a> •
-  <a href="https://www.linkedin.com/in/mohitchoudhary2004">LinkedIn</a>
-</p>
+📍 Delhi, India  
+📧 mohitchoudhary11012004@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohitchoudhary2004  
+🔗 GitHub: https://github.com/mohitchoudhary666
 
 ---
 
-## ⚡ Profile Snapshot
+# 👨‍💻 About Me
 
-* 🎯 Data Analyst with real-world project experience across healthcare, retail, telecom
-* 📊 Strong in SQL, Power BI, and Python-based analytics
-* 🧠 Focused on extracting business insights, not just coding
-* 🚀 Transitioning toward Full-Stack + Data-driven systems
+I am a Data Analyst with internship experience and hands-on project experience in business analytics, cloud analytics, and dashboard development.
 
----
+I enjoy solving business problems using SQL, Python, Power BI, AWS Athena, and Google BigQuery. My projects focus on transforming raw datasets into meaningful insights through data cleaning, modeling, visualization, and analytical reporting.
 
-## 🧠 Core Competencies
-
-```
-Data Analysis      ██████████████░░░ 85%
-SQL & Databases    ███████████████░░ 90%
-Power BI / DAX     █████████████░░░░ 80%
-Python Analytics   █████████████░░░░ 80%
-Web Development    █████████░░░░░░░░ 60%
-```
+Currently expanding my knowledge in Data Engineering while continuing to build end-to-end analytics projects.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Technical Skills
 
-### 📊 Data & Analytics
+## Programming & Analytics
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-`SQL` `MySQL` `PostgreSQL`
+- SQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-### 📈 Business Intelligence
+## Business Intelligence
 
-`Power BI` `DAX` `Data Modeling` `Dashboard Design`
+- Power BI
+- DAX
+- Data Modeling
+- Dashboard Development
 
-### 🧠 Analytics Techniques
+## Cloud Analytics
 
-`RFM Segmentation` `Churn Analysis` `Cohort Analysis`
-`EDA` `KPI Tracking` `Forecasting`
+- AWS S3
+- AWS Athena
+- Google BigQuery
 
-### 💻 Development
+## Databases
 
-`HTML` `CSS` `JavaScript`
-`React.js` 
-`Node.js` 
+- MySQL
+- PostgreSQL
 
-### ⚙️ Tools
+## Analytics Techniques
 
-`Git` `VS Code` `Jupyter Notebook` `MongoDB`
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Validation
+- Data Transformation
+- RFM Customer Segmentation
+- Cohort Analysis
+- Churn Analysis
+- KPI Reporting
 
----
+## Tools
 
-## 📂 High-Impact Projects
-
-### 🏥 Healthcare Patient Analytics
-
-✔ Identified readmission trends and treatment patterns
-✔ Built SQL-based segmentation and analysis pipelines
-✔ Created Power BI dashboards for hospital KPIs
-
----
-
-### 📉 Customer Churn Analysis
-
-✔ Discovered key churn drivers in telecom dataset
-✔ Segmented high-risk users using behavioral data
-✔ Applied Python EDA for trend visualization
-
----
-
-### 🛒 Retail Customer Segmentation
-
-✔ Performed RFM analysis on 30,000+ transactions
-✔ Identified top 48% revenue-generating customers
-✔ Built lifecycle dashboards in Power BI
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- Advanced Excel
 
 ---
 
-### 📊 Sales Performance Dashboard
+# 🚀 Featured Projects
 
-✔ Modeled 50K+ records using star schema
-✔ Created DAX KPIs for revenue & growth tracking
-✔ Automated reporting dashboards
+## 📊 AWS Cloud Analytics Pipeline
+
+**Tech Stack**
+
+AWS S3 • AWS Athena • SQL • Power BI
+
+### Highlights
+
+- Built a cloud-based analytics workflow using AWS S3 and Athena.
+- Queried over 100,000+ e-commerce transactions using SQL.
+- Connected Athena directly with Power BI.
+- Created dashboards for revenue, regional sales, payment methods, and business KPIs.
+
+Repository:
+(Add Repository Link)
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Retail Customer Segmentation (RFM)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitchoudhary666&show_icons=true&theme=radical" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitchoudhary666&theme=radical" height="160">
-</p>
+**Tech Stack**
+
+Python • PostgreSQL • Power BI
+
+### Highlights
+
+- Performed RFM analysis on 30,000+ retail transactions.
+- Identified high-value customers contributing approximately 48% of total revenue.
+- Designed a star schema data model for Power BI reporting.
+- Built interactive customer segmentation dashboards.
+
+Repository:
+(Add Repository Link)
 
 ---
 
-## 🎓 Education
+## 📉 Customer Churn Analysis
+
+**Tech Stack**
+
+Python • SQL • Power BI
+
+### Highlights
+
+- Cleaned and analyzed telecom customer data.
+- Identified major churn drivers.
+- Performed exploratory data analysis using Python.
+- Developed dashboards to monitor churn KPIs.
+
+Repository:
+(Add Repository Link)
+
+---
+
+## 🏥 Healthcare Patient Analytics
+
+**Tech Stack**
+
+SQL • Python • Power BI
+
+### Highlights
+
+- Analyzed patient admissions and treatment records.
+- Built SQL queries for healthcare reporting.
+- Created dashboards showing hospital KPIs and patient trends.
+- Generated actionable healthcare insights.
+
+Repository:
+(Add Repository Link)
+
+---
+
+## 📊 Sales Performance Dashboard
+
+**Tech Stack**
+
+Power BI • SQL • Excel
+
+### Highlights
+
+- Built an interactive sales dashboard.
+- Designed star schema relationships.
+- Created DAX measures for revenue, profit, and growth.
+- Automated KPI reporting.
+
+Repository:
+(Add Repository Link)
+
+---
+
+## 📈 User Behavior & Cohort Analytics
+
+**Tech Stack**
+
+Google BigQuery • SQL • Looker Studio
+
+### Highlights
+
+- Used the Google Analytics public dataset.
+- Built cohort retention analysis using SQL.
+- Applied CTEs and window functions.
+- Analyzed user retention and checkout funnel performance.
+
+Repository:
+(Add Repository Link)
+
+---
+
+# 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**
-Mewar Institute of Management, CCSU
-📅 Expected Graduation: 2026
+
+Mewar Institute of Management
+
+Chaudhary Charan Singh University (CCSU)
+
+2023 – 2026
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-* Cisco – Data Science Essentials
-* Cisco – Data Analytics Essentials
-* Google – Google Analytics Certification
-
----
-
-## 🎯 Current Focus
-
-* Advanced SQL Case Studies
-* End-to-End Data Projects
-* MERN Stack Development
-* System Design Basics
+- Cisco Data Science Essentials with Python
+- Cisco Data Analytics Essentials
+- Google Analytics Certification
 
 ---
 
-## ⚡ Competitive Edge
+# 🌱 Currently Learning
 
-* Built multi-domain analytics projects
-* Strong foundation in data + development
-* Focus on business impact, not just code
+- Data Engineering Fundamentals
+- Apache Spark
+- Apache Airflow
+- Snowflake
+- Advanced SQL Optimization
+- ETL Pipelines
 
 ---
 
-## 📬 Contact
+# 📫 Connect With Me
 
-📧 [mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)
+📧 Email
 
+mohitchoudhary11012004@gmail.com
 
+💼 LinkedIn
+
+https://www.linkedin.com/in/mohitchoudhary2004
+
+💻 GitHub
+
+https://github.com/mohitchoudhary666
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
