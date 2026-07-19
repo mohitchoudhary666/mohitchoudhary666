@@ -1,3 +1,9 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitchoudhary666&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchoudhary666&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohitchoudhary666)
+
 # 👋 Hi, I'm Mohit Choudhary
 
 ## Data Analyst | SQL | Python | Power BI | Cloud Analytics
