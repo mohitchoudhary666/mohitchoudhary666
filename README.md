@@ -15,13 +15,13 @@ Turning raw data into actionable business insights through analytics, visualizat
 
 I am a Data Analyst with internship experience in exploratory data analysis (EDA), data transformation, dashboard development, and cloud analytics.
 
-My expertise includes SQL, Python, Power BI, AWS Athena, and Google BigQuery. I enjoy transforming raw datasets into meaningful business insights through data cleaning, modeling, visualization, and analytical reporting.
+My expertise includes SQL, Python, Power BI, AWS Athena, Google BigQuery, and Snowflake. I enjoy transforming raw datasets into meaningful business insights through data cleaning, modeling, visualization, and analytical reporting.
 
-Currently expanding my knowledge in Data Engineering while building end-to-end analytics projects on modern cloud platforms.
+Currently expanding my knowledge in Data Engineering while building end-to-end analytics solutions using modern cloud platforms.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
 ### Programming & Analytics
 
@@ -44,6 +44,7 @@ Currently expanding my knowledge in Data Engineering while building end-to-end a
 * AWS S3
 * AWS Athena
 * Google BigQuery
+* Snowflake
 
 ### Databases
 
@@ -81,10 +82,10 @@ Currently expanding my knowledge in Data Engineering while building end-to-end a
 * Developed SQL queries to analyze regional sales performance, payment methods, and monthly revenue trends.
 * Connected Athena directly to Power BI to build interactive dashboards for revenue, regional sales, payment analytics, and business KPIs.
 
-**🔗 Repository:**
+**🔗 Repository**
 https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline
 
-**🌐 Live Demo:**
+**🌐 Live Demo**
 https://e-commerce-pipline.vercel.app/
 
 ---
@@ -97,10 +98,10 @@ https://e-commerce-pipline.vercel.app/
 * Built cohort retention analysis using SQL CTEs, CASE statements, and window functions (LAG/LEAD).
 * Identified user retention trends and checkout funnel drop-off points through analytical reporting.
 
-**🔗 Repository:**
+**🔗 Repository**
 https://github.com/mohitchoudhary666/User-Behavior-Cohort-Analytics
 
-**🌐 Live Demo:**
+**🌐 Live Demo**
 https://user-behavior-cohort-analytics.vercel.app/
 
 ---
@@ -113,10 +114,10 @@ https://user-behavior-cohort-analytics.vercel.app/
 * Identified a high-value customer segment contributing approximately **48%** of total revenue.
 * Designed a star schema data model and built Power BI dashboards for customer behavior and revenue analysis.
 
-**🔗 Repository:**
+**🔗 Repository**
 https://github.com/mohitchoudhary666/Retail-Customer-Segmentation
 
-**🌐 Live Demo:**
+**🌐 Live Demo**
 https://retail-customer-segmentation-neon.vercel.app/
 
 ---
@@ -125,20 +126,27 @@ https://retail-customer-segmentation-neon.vercel.app/
 
 * Apache Spark
 * Apache Airflow
-* Snowflake
 * ETL Pipelines
-* Data Engineering Fundamentals
 * Advanced SQL Optimization
+* Data Engineering Fundamentals
+
+---
+
+## 📜 Certifications
+
+* Cisco Data Analytics Essentials
+* Cisco Data Science Essentials with Python
+* Google Analytics Certification
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:**
+📧 **Email**
 [mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)
 
-💼 **LinkedIn:**
+💼 **LinkedIn**
 https://www.linkedin.com/in/mohitchoudhary2004
 
-💻 **GitHub:**
+💻 **GitHub**
 https://github.com/mohitchoudhary666
