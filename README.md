@@ -82,7 +82,7 @@ Currently expanding my skills in Data Engineering while building end-to-end anal
 * Connected Athena directly to Power BI to create interactive dashboards for revenue, sales performance, payment analytics, and regional KPIs.
 
 ➡️ Repository: *(https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline)*
-live demo link = *(https://e-commerce-pipline.vercel.app/)*
+    live demo link = *(https://e-commerce-pipline.vercel.app/)*
 ---
 
 ## 📈 User Behavior & Cohort Analytics
@@ -94,7 +94,7 @@ live demo link = *(https://e-commerce-pipline.vercel.app/)*
 * Identified user retention trends and checkout funnel drop-off points through analytical reporting.
 
 ➡️ Repository: *(https://github.com/mohitchoudhary666/User-Behavior-Cohort-Analytics)*
-live demo link =*( user-behavior-cohort-analytics.vercel.app/)*
+   live demo link =*(https://user-behavior-cohort-analytics.vercel.app/)*
 ---
 
 ## 🛒 Retail Customer Segmentation (RFM)
@@ -106,7 +106,7 @@ live demo link =*( user-behavior-cohort-analytics.vercel.app/)*
 * Designed a star schema data model and developed Power BI dashboards for customer behavior and revenue analysis.
 
 ➡️ Repository: *(https://github.com/mohitchoudhary666/Retail-Customer-Segmentation)*
-live demo link =  *(retail-customer-segmentation-neon.vercel.app/)*
+    live demo link =  *(https://retail-customer-segmentation-neon.vercel.app/)*
 
 ---
 
