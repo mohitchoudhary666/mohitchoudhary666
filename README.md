@@ -1,4 +1,15 @@
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitchoudhary666&theme=github_dark" width="100%">
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitchoudhary666&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitchoudhary666&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohitchoudhary666&theme=github-dark&hide_border=true"/>
+</p>
 # 👋 Hi, I'm Mohit Choudhary
 
 ## Data Analyst | SQL | Python | Power BI | Cloud Analytics
