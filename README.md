@@ -6,9 +6,9 @@
 Turning raw data into actionable business insights through analytics, visualization, and cloud technologies.
 
 📍 **Delhi, India**
-📧 **[mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)**
-💼 **LinkedIn:** https://www.linkedin.com/in/mohitchoudhary2004
-💻 **GitHub:** https://github.com/mohitchoudhary666
+* 📧 **[mohitchoudhary11012004@gmail.com](mailto:mohitchoudhary11012004@gmail.com)**
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mohitchoudhary2004
+* 💻 **GitHub:** https://github.com/mohitchoudhary666
 
 ---
 
