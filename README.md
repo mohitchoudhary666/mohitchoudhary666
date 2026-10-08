@@ -1,45 +1,45 @@
 # Mohit Choudhary
 
-**Data Analyst | SQL · Python · Power BI | Delhi NCR, India**
+**DevOps & Cloud | Data Analytics**  
+Delhi NCR, India · BCA, 2026
 
-BCA graduate (2026) with a six-month data analyst internship in manufacturing quality analytics. I work across data extraction, cleaning, validation, analysis, and reporting, with experience in PostgreSQL, AWS Athena, BigQuery, and Power BI.
+I build practical solutions across cloud infrastructure and analytics: Linux and Bash operations, Docker and CI/CD, AWS services, SQL analysis, and Power BI reporting. During a six-month Data Analyst internship, I worked with manufacturing quality data and PostgreSQL to improve defect visibility and reporting.
 
-## Experience highlights
+## Focus areas
 
-- Built a SQL quality-yield query that brought damaged-unit detection from a roughly three-day cycle to near real time.
-- Consolidated Production, QA, and Logistics data into a PostgreSQL staging table to reduce manual lookup errors.
-- Contributed to a weekly report flagging batches with more than 5% wastage; rejection rates fell about 18% during the internship.
+- **DevOps:** Linux, Bash, Docker, Git, GitHub Actions, CI/CD fundamentals
+- **Cloud:** AWS EC2, S3, IAM, VPC, CloudWatch, Athena; Terraform
+- **Analytics:** SQL, Python, Pandas, PostgreSQL, BigQuery, Power BI, DAX
+- **Methods:** Data cleaning and validation, KPI reporting, RFM segmentation, cohort analysis
 
 ## Selected work
 
-### Customer shopping behavior
-Python preprocessing and notebook analysis, SQL examples, and a Power BI dashboard built around a synthetic dataset.
-[Repository](https://github.com/mohitchoudhary666/customer-shopping-behavior-analysis)
+### Data analytics
 
-### Telecom customer churn
-SQL analysis of churn patterns with a Power BI dashboard and customer dataset.
-[Repository](https://github.com/mohitchoudhary666/telecom-customer-churn-analysis)
+- [Retail Customer Segmentation](https://github.com/mohitchoudhary666/Retail-Customer-Segmentation) — RFM analysis and an interactive segmentation demo. The app uses a TypeScript/Express service; the Python, PostgreSQL, and DAX materials are reference examples.
+- [Customer Shopping Behavior Analysis](https://github.com/mohitchoudhary666/customer-shopping-behavior-analysis) — Python analysis, SQL examples, and Power BI dashboard.
+- [Telecom Customer Churn Analysis](https://github.com/mohitchoudhary666/telecom-customer-churn-analysis) — SQL churn analysis and Power BI reporting.
+- [User Behavior & Cohort Analytics](https://github.com/mohitchoudhary666/User-Behavior-Cohort-Analytics) — cohort analysis examples and dashboard prototype; no live BigQuery connection.
 
-### Retail customer segmentation
-An interactive RFM demo with a TypeScript/Express scoring service. Python, PostgreSQL, and DAX examples in the repository are reference templates; they are not executed by the app.
-[Repository](https://github.com/mohitchoudhary666/Retail-Customer-Segmentation) · [Live demo](https://retail-customer-segmentation-neon.vercel.app/)
+### Cloud and DevOps
 
-### Analytics interface prototypes
-- [Cohort analytics UI](https://github.com/mohitchoudhary666/User-Behavior-Cohort-Analytics): sample dashboard data and BigQuery SQL examples; no live BigQuery connection.
-- [E-commerce pipeline simulator](https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline): generated browser data and a local Athena-style query experience; no live AWS pipeline.
+My hands-on practice includes a Dockerized Python app with a GitHub Actions test and image-build workflow, Bash health checks for an AWS EC2 Linux server with CloudWatch monitoring, and Terraform-managed AWS networking and EC2 infrastructure.
 
-## Skills
+The public [E-Commerce Analytics Pipeline](https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline) repository is an interactive simulator and architecture showcase; it does not deploy a live AWS pipeline.
 
-- **Analysis:** SQL, Python, Pandas, NumPy, EDA, data cleaning and validation, RFM, cohort analysis, KPI reporting
-- **BI:** Power BI, DAX, data modeling, Power Query, Looker Studio, Excel
-- **Data platforms:** PostgreSQL, MySQL, AWS S3 and Athena, Google BigQuery
-- **Tools:** Git, Linux, Bash, Docker, GitHub Actions
+## Experience
 
-## Education and certifications
+**Data Analyst Intern — EXCO Graphic India Pvt. Ltd.** · Jul 2025–Jan 2026
+
+- Wrote a SQL quality-yield query that reduced defect detection from about three days to near real time.
+- Consolidated Production, QA, and Logistics data into a PostgreSQL staging table.
+- Contributed to weekly wastage reporting used to guide process adjustments.
+
+## Education & certifications
 
 - BCA, Mewar Institute of Management, CCSU (2023–2026)
-- Advanced SQL, HackerRank
+- Advanced SQL — HackerRank
 - Google Analytics Certification
-- Data Science Essentials with Python and Data Analytics Essentials, Cisco Networking Academy
+- Data Science Essentials with Python; Data Analytics Essentials — Cisco Networking Academy
 
 [LinkedIn](https://www.linkedin.com/in/mohitchoudhary2004) · [Email](mailto:mohitchoudhary11012004@gmail.com)
