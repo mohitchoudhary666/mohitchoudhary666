@@ -1,16 +1,38 @@
 # Mohit Choudhary
 
-**DevOps & Cloud | Data Analytics**  
-Delhi NCR, India · BCA, 2026
+<p align="center">
+  <strong>DevOps & Cloud · Data Analytics</strong><br>
+  Delhi NCR, India · BCA, 2026
+</p>
 
-I build practical solutions across cloud infrastructure and analytics: Linux and Bash operations, Docker and CI/CD, AWS services, SQL analysis, and Power BI reporting. During a six-month Data Analyst internship, I worked with manufacturing quality data and PostgreSQL to improve defect visibility and reporting.
+> 💬 **Mohit:** I like turning messy systems and data into clear, reliable workflows.  
+> **Currently focused on:** Linux, Docker, CI/CD, AWS, SQL, Python, and Power BI.
 
-## Focus areas
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Linux%20%7C%20Docker%20%7C%20CI%2FCD-2563eb?style=for-the-badge" alt="DevOps skills">
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Terraform-f59e0b?style=for-the-badge" alt="Cloud skills">
+  <img src="https://img.shields.io/badge/Analytics-SQL%20%7C%20Python%20%7C%20Power%20BI-14b8a6?style=for-the-badge" alt="Analytics skills">
+</p>
 
-- **DevOps:** Linux, Bash, Docker, Git, GitHub Actions, CI/CD fundamentals
-- **Cloud:** AWS EC2, S3, IAM, VPC, CloudWatch, Athena; Terraform
-- **Analytics:** SQL, Python, Pandas, PostgreSQL, BigQuery, Power BI, DAX
-- **Methods:** Data cleaning and validation, KPI reporting, RFM segmentation, cohort analysis
+## My workflow
+
+```mermaid
+flowchart LR
+    A[Linux + Bash] --> B[Docker]
+    B --> C[GitHub Actions]
+    C --> D[AWS]
+    D --> E[CloudWatch]
+    D --> F[S3 + Athena]
+    F --> G[SQL + Python]
+    G --> H[Power BI]
+```
+
+## GitHub snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitchoudhary666&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchoudhary666&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
+</p>
 
 ## Selected work
 
@@ -42,4 +64,7 @@ The public [E-Commerce Analytics Pipeline](https://github.com/mohitchoudhary666/
 - Google Analytics Certification
 - Data Science Essentials with Python; Data Analytics Essentials — Cisco Networking Academy
 
-[LinkedIn](https://www.linkedin.com/in/mohitchoudhary2004) · [Email](mailto:mohitchoudhary11012004@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohitchoudhary2004">LinkedIn</a> ·
+  <a href="mailto:mohitchoudhary11012004@gmail.com">Email me</a>
+</p>
