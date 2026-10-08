@@ -1,12 +1,13 @@
 # Mohit Choudhary
 
 <p align="center">
-  <strong>DevOps & Cloud · Data Analytics</strong><br>
-  Delhi NCR, India · BCA, 2026
+  <strong>Cloud & DevOps Intern · AWS · Terraform · Linux/Bash · Docker · GitHub Actions</strong><br>
+  Data Analytics · SQL · Python · Power BI · Delhi NCR, India
 </p>
 
 > 💬 **Mohit:** I like turning messy systems and data into clear, reliable workflows.  
-> **Currently focused on:** Linux, Docker, CI/CD, AWS, SQL, Python, and Power BI.
+> **Currently focused on:** AWS, Terraform, EC2, CloudWatch, Linux/Bash, Docker, GitHub Actions, SQL, Python, and Power BI.  
+> **Open to:** Cloud/DevOps internships, Data Analyst, and BI Analyst roles in Delhi NCR or remote.
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Linux%20%7C%20Docker%20%7C%20CI%2FCD-2563eb?style=for-the-badge" alt="DevOps skills">
@@ -18,13 +19,18 @@
 
 ```mermaid
 flowchart LR
-    A[Linux + Bash] --> B[Docker]
-    B --> C[GitHub Actions]
-    C --> D[AWS]
-    D --> E[CloudWatch]
-    D --> F[S3 + Athena]
-    F --> G[SQL + Python]
-    G --> H[Power BI]
+    subgraph DevOps[Cloud and DevOps]
+        A[Terraform] --> B[AWS VPC and EC2]
+        C[Code push] --> D[GitHub Actions]
+        D --> E[Tests and Docker image]
+        B --> F[Linux and Bash checks]
+        F --> G[CloudWatch metrics]
+    end
+    subgraph Analytics[Data analytics]
+        H[S3 data] --> I[Athena and SQL]
+        I --> J[Python analysis]
+        J --> K[Power BI dashboard]
+    end
 ```
 
 ## GitHub snapshot
@@ -45,14 +51,18 @@ flowchart LR
 
 ### Cloud and DevOps
 
-- [AWS EC2 Server Monitoring and Health Checks](https://github.com/mohitchoudhary666/aws-ec2-server-monitoring) — Bash host metrics, systemd scheduling, a scoped CloudWatch policy, dashboard, and troubleshooting guide.
+- [Dockerized Python Health API with GitHub Actions](https://github.com/mohitchoudhary666/dockerized-python-health-api) — FastAPI liveness/readiness endpoints and Prometheus metrics, non-root Docker image, Compose setup, automated tests, and CI image build.
 - [AWS Infrastructure with Terraform](https://github.com/mohitchoudhary666/aws-infrastructure-terraform) — VPC, subnet, security group, IAM instance profile, and Ubuntu EC2 managed through Systems Manager, with no inbound rules.
-
-My hands-on practice also includes a Dockerized Python app with a GitHub Actions test and image-build workflow.
+- [AWS EC2 Server Monitoring and Health Checks](https://github.com/mohitchoudhary666/aws-ec2-server-monitoring) — Bash host metrics, systemd scheduling, a scoped CloudWatch policy, dashboard, and troubleshooting guide.
 
 The public [E-Commerce Analytics Pipeline](https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline) repository is an interactive simulator and architecture showcase; it does not deploy a live AWS pipeline.
 
 ## Experience
+
+**Business Analyst Intern — youbloom** · Apr–May 2026
+
+- Analyzed 10,000+ fan requests across 50+ cities with SQL and Excel to identify demand patterns.
+- Built Python/Pandas cleaning pipelines for 15,000+ records and reusable reporting templates.
 
 **Data Analyst Intern — EXCO Graphic India Pvt. Ltd.** · Jul 2025–Jan 2026
 
@@ -62,7 +72,7 @@ The public [E-Commerce Analytics Pipeline](https://github.com/mohitchoudhary666/
 
 ## Education & certifications
 
-- BCA, Mewar Institute of Management, CCSU (2023–2026)
+- BCA, Computer Science — Chaudhary Charan Singh University (2024–2026)
 - Advanced SQL — HackerRank
 - Google Analytics Certification
 - Data Science Essentials with Python; Data Analytics Essentials — Cisco Networking Academy
