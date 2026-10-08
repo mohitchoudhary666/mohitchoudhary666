@@ -2,12 +2,12 @@
 
 <p align="center">
   <strong>Cloud & DevOps Intern · AWS · Terraform · Linux/Bash · Docker · GitHub Actions</strong><br>
-  Data Analytics · SQL · Python · Power BI · Delhi NCR, India
+  Data Analytics · SQL · Python · Power BI · Open to opportunities worldwide
 </p>
 
 > 💬 **Mohit:** I like turning messy systems and data into clear, reliable workflows.  
 > **Currently focused on:** AWS, Terraform, EC2, CloudWatch, Linux/Bash, Docker, GitHub Actions, SQL, Python, and Power BI.  
-> **Open to:** Cloud/DevOps internships, Data Analyst, and BI Analyst roles in Delhi NCR or remote.
+> **Open to:** Cloud/DevOps internships, Data Analyst, and BI Analyst roles worldwide, including remote opportunities.
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Linux%20%7C%20Docker%20%7C%20CI%2FCD-2563eb?style=for-the-badge" alt="DevOps skills">
