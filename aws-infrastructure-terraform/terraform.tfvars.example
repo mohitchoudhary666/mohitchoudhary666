@@ -1,4 +1,0 @@
-aws_region    = "ap-south-1"
-project_name  = "mohit-devops-lab"
-environment   = "learning"
-instance_type = "t3.micro"
