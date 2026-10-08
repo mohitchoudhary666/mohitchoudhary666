@@ -1,0 +1,23 @@
+{
+  "widgets": [{
+    "type": "metric", "x": 0, "y": 0, "width": 12, "height": 6,
+    "properties": {
+      "view": "timeSeries", "region": "REGION", "title": "EC2 resource usage", "period": 300, "stat": "Average",
+      "metrics": [
+        ["Mohit/EC2Health", "CpuUtilization", "InstanceId", "INSTANCE_ID", "InstanceType", "INSTANCE_TYPE"],
+        [".", "MemoryUsedPercent", ".", ".", ".", "."],
+        [".", "RootDiskUsedPercent", ".", ".", ".", "."]
+      ]
+    }
+  }, {
+    "type": "metric", "x": 12, "y": 0, "width": 12, "height": 6,
+    "properties": {
+      "view": "timeSeries", "region": "REGION", "title": "EC2 uptime and process health", "period": 300, "stat": "Average",
+      "metrics": [
+        ["Mohit/EC2Health", "UptimeSeconds", "InstanceId", "INSTANCE_ID", "InstanceType", "INSTANCE_TYPE"],
+        [".", "ProcessCount", ".", ".", ".", "."],
+        [".", "FailedSystemdUnits", ".", ".", ".", "."]
+      ]
+    }
+  }]
+}

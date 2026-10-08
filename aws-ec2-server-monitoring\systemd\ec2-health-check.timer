@@ -1,0 +1,11 @@
+[Unit]
+Description=Run EC2 health check every five minutes
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=5min
+AccuracySec=30s
+Unit=ec2-health-check.service
+
+[Install]
+WantedBy=timers.target
