@@ -45,7 +45,10 @@ flowchart LR
 
 ### Cloud and DevOps
 
-My hands-on practice includes a Dockerized Python app with a GitHub Actions test and image-build workflow, Bash health checks for an AWS EC2 Linux server with CloudWatch monitoring, and Terraform-managed AWS networking and EC2 infrastructure.
+- [AWS EC2 Server Monitoring and Health Checks](https://github.com/mohitchoudhary666/mohitchoudhary666/tree/main/aws-ec2-server-monitoring) — Bash host metrics, systemd scheduling, a scoped CloudWatch policy, dashboard, and troubleshooting guide.
+- [AWS Infrastructure with Terraform](https://github.com/mohitchoudhary666/mohitchoudhary666/tree/main/aws-infrastructure-terraform) — VPC, subnet, security group, IAM instance profile, and Ubuntu EC2 managed through Systems Manager, with no inbound rules.
+
+My hands-on practice also includes a Dockerized Python app with a GitHub Actions test and image-build workflow.
 
 The public [E-Commerce Analytics Pipeline](https://github.com/mohitchoudhary666/E-Commerce-Analytics-Pipeline) repository is an interactive simulator and architecture showcase; it does not deploy a live AWS pipeline.
 
