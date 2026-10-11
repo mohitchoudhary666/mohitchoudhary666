@@ -84,3 +84,13 @@ The public [E-Commerce Analytics Pipeline](https://github.com/mohitchoudhary666/
   <a href="https://www.linkedin.com/in/mohitchoudhary2004">LinkedIn</a> ·
   <a href="mailto:mohitchoudhary11012004@gmail.com">Email me</a>
 </p>
+
+## Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitchoudhary666/mohitchoudhary666/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitchoudhary666/mohitchoudhary666/output/github-contribution-grid-snake-light.svg">
+    <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/mohitchoudhary666/mohitchoudhary666/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
