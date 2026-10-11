@@ -27,9 +27,11 @@ flowchart LR
         F --> G[CloudWatch metrics]
     end
     subgraph Analytics[Data analytics]
-        H[S3 data] --> I[Athena and SQL]
-        I --> J[Python analysis]
-        J --> K[Power BI dashboard]
+        H[Raw events in Amazon S3] --> I[AWS Glue ETL]
+        I --> J[Partitioned Parquet + Glue Catalog]
+        J --> K[Amazon Athena SQL]
+        K --> L[Plotly analytics dashboard]
+        K --> M[Python and Power BI analysis]
     end
 ```
 
@@ -44,6 +46,7 @@ flowchart LR
 
 ### Data analytics
 
+- [AWS Event Analytics Lakehouse](https://github.com/mohitchoudhary666/aws-event-analytics-lakehouse) — Terraform-provisioned S3, AWS Glue data-quality ETL, partitioned Parquet, Athena SQL, and a Streamlit/Plotly dashboard using synthetic clickstream data.
 - [Retail Customer Segmentation](https://github.com/mohitchoudhary666/Retail-Customer-Segmentation) — RFM analysis and an interactive segmentation demo. The app uses a TypeScript/Express service; the Python, PostgreSQL, and DAX materials are reference examples.
 - [Customer Shopping Behavior Analysis](https://github.com/mohitchoudhary666/customer-shopping-behavior-analysis) — Python analysis, SQL examples, and Power BI dashboard.
 - [Telecom Customer Churn Analysis](https://github.com/mohitchoudhary666/telecom-customer-churn-analysis) — SQL churn analysis and Power BI reporting.
