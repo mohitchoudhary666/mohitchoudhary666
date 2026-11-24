@@ -67,7 +67,7 @@ The public [E-Commerce Analytics Pipeline](https://github.com/mohitchoudhary666/
 - Analyzed 10,000+ fan requests across 50+ cities with SQL and Excel to identify demand patterns.
 - Built Python/Pandas cleaning pipelines for 15,000+ records and reusable reporting templates.
 
-**Data Analyst Intern — EXCO Graphic India Pvt. Ltd.** · Jul 2025–Jan 2026
+**Data Analyst and devops Intern — EXCO Graphic India Pvt. Ltd.** · Jul 2025–Feb 2026
 
 - Wrote a SQL quality-yield query that reduced defect detection from about three days to near real time.
 - Consolidated Production, QA, and Logistics data into a PostgreSQL staging table.
